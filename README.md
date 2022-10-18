@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ViniSouza01
+- 👀 I’m interested in finish my course to get a job as a programming technician
+- 🌱 I’m currently learning program in Java
+- 📫 How to reach me... my instagram: @viniciussouza.exe
