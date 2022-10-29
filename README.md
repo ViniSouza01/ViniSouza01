@@ -10,4 +10,3 @@
 <p>💤 Take a look at my activities</p>
 
 <img src="https://thumbs.gfycat.com/EducatedSlimDinosaur-size_restricted.gif" alt="Dancin">
-<audio src="./535331_Stay-Inside-Me.mp3" controls></audio>
