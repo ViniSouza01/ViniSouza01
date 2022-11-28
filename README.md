@@ -8,5 +8,6 @@
 <p>👨‍💻 I like to program in HTML, CSS and JAVA</p>
 <p>📖 At the moment, I'm learning JAVA, build and style websites with HTML and CSS</p>
 <p>💤 Take a look at my activities</p>
+<p>🎶 We live, we love, we lie 🎶</p>
 
 <img src="https://thumbs.gfycat.com/EducatedSlimDinosaur-size_restricted.gif" alt="Dancin">
